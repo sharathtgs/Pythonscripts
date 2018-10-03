@@ -15,6 +15,7 @@ print("**********************Jenkins1111*********")
 print("Executed")
 print("Executed")
 print("Changes done")
+print("Entering from command line")
 
 
 
